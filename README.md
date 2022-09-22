@@ -6,7 +6,7 @@
 
 
 I'm
-Student
+Student.
 The crossover between design and programming has always been of interest to me.I have skills in Java , python ,Aws , cyber security, Internet of things.
 
 
