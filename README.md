@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/prathyusha-gudelli-2a2816202/)
+[![Linkedin Badge](https://img.shields.io/badge/-Prathyusha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/prathyusha-gudelli-2a2816202/)](https://www.linkedin.com/in/prathyusha-gudelli-2a2816202/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 
 
